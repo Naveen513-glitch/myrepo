@@ -1,0 +1,7 @@
+Which SQL statement is used to select all records from a table named 'Customers'?
+
+
+SELECT FROM Customers;
+SELECT ALL FROM Customers;
+SELECT * FROM Customers;
+GET ALL FROM Customers;
